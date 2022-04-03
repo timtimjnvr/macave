@@ -1,0 +1,2 @@
+# macave
+Prestashop module
